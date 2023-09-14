@@ -1,4 +1,6 @@
 // Simple C++ program to display "Hello World"
+// Author: Burahaun Uddin <burahaunuddin@gmail.com>
+
 // Header file for input output functions
 #include<iostream>
 using namespace std;
